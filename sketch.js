@@ -5,7 +5,7 @@ let size;
 let asciiChar = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,^`'. "
 
 function preload(){
-  img = loadImage("images/01.jpg")
+  img = loadImage("images/02.jpg")
 }
 
 
